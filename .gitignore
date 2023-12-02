@@ -1,0 +1,5 @@
+## Ignore target directories
+**/target
+
+#ignore lock files
+.lock
